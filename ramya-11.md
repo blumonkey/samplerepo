@@ -1,8 +1,8 @@
 
 *To Do List*:
-#Design Document : [https://github.com/Ramya2902/nbny6/blob/master/Project_2_Design_Focus/Project2_Design_Process.pdf]
+# Design Document : [https://github.com/Ramya2902/nbny6/blob/master/Project_2_Design_Focus/Project2_Design_Process.pdf]
 
-#Class
+# Class
 Classes need to be created:
 Create Class "Student"
 Create Class "Professor"
